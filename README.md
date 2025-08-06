@@ -45,8 +45,9 @@ Model nauczył się generować fale o strukturze zbliżonej do oryginalnych fale
 - falki oryginalne,
 - falki po zaszumieniu,
 - falki odszumione przez model
-- 
+
 <img width="1790" height="590" alt="3" src="https://github.com/user-attachments/assets/538f63c9-ece1-4856-87d5-216c66d08d29" />
 <img width="1790" height="590" alt="2" src="https://github.com/user-attachments/assets/f21336d6-a771-46d6-852e-898033da7701" />
 <img width="1790" height="590" alt="1" src="https://github.com/user-attachments/assets/4fda56d2-b230-4d43-b023-40e71685ae39" />
 <img width="1790" height="590" alt="4" src="https://github.com/user-attachments/assets/a17be655-e7bb-4572-ae76-2d5307081e70" />
+
