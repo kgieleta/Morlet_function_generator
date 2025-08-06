@@ -39,6 +39,10 @@ The objective was to create a generative model that learns to replicate Morlet w
 5. **Experiments**  
    Experiments were conducted with different beta schedules and visualizations of reconstruction quality.
 
+   For readers interested in the full mathematical background and derivations,  
+   please refer to the academic report (in Polish): [`Morlet_function_generator_report.pdf`](Morlet_function_generator_report.pdf).
+
+
 ## Results
 
 The model successfully learned to generate waves with a structure close to the original Morlet wavelets, even from fully noise-corrupted data. Example results include:
@@ -48,3 +52,4 @@ The model successfully learned to generate waves with a structure close to the o
 - wavelets denoised by the model.
 
 <img width="749" height="748" alt="image" src="https://github.com/user-attachments/assets/4106f482-7267-4f13-968c-c6e2fbc72851" />
+
