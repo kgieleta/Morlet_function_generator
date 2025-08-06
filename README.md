@@ -1,6 +1,6 @@
 # Diffusion Model for Generating Morlet Wavelets
 
-This project was developed by a two-person team as part of the course *"Deep Neural Networks in Digital Media"*.  
+This project was developed by a two-person team as part of the university subject *"Deep Neural Networks in Digital Media"*.  
 The goal was to implement a diffusion model capable of generating one-dimensional mathematical signals—specifically, Morlet wavelets—from fully noise-corrupted data.
 
 Due to computational constraints, the project focused on mathematical functions instead of images, without compromising the theoretical alignment with diffusion models.
@@ -51,5 +51,6 @@ The model successfully learned to generate waves with a structure close to the o
 <img width="1790" height="590" alt="2" src="https://github.com/user-attachments/assets/f21336d6-a771-46d6-852e-898033da7701" />
 <img width="1790" height="590" alt="1" src="https://github.com/user-attachments/assets/4fda56d2-b230-4d43-b023-40e71685ae39" />
 <img width="1790" height="590" alt="4" src="https://github.com/user-attachments/assets/a17be655-e7bb-4572-ae76-2d5307081e70" />
+
 
 
